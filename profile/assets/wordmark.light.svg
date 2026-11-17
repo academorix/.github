@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 64" role="img" aria-label="Academorix">
+  <!-- A symbol, from the Academorix Brand System's hero-logo inline SVG (§03 "Logo · the A mark + wordmark"). Ground: light (paper). Mark colour: grass-volt #3A7411. -->
+  <g fill="#3A7411">
+    <path d="M4 56 L26 8 H38 L16 56 Z"/>
+    <path d="M26 8 H38 L50 56 H38 Z"/>
+    <path d="M0 42 L3.21 35 H40 V42 Z"/>
+    <path d="M44 18 L46.75 12 H62 L59.25 18 Z"/>
+  </g>
+  <!-- Slash device, from the same inline SVG. Same mark colour as the symbol on this Ground; not a Cursor Mark (it takes `mark`, not `cursor`). -->
+  <polygon points="80,4 108.875,4 100.55,59 71.675,59" fill="#3A7411"/>
+  <!-- Name: Barlow Condensed 900 italic, uppercase, tracking -0.005em, the ambient foreground (graphite #151711) on this Ground. -->
+  <text x="120" y="49" font-family="Barlow Condensed, ui-sans-serif, system-ui, sans-serif" font-style="italic" font-weight="900" font-size="56" letter-spacing="-0.28" fill="#151711">ACADEMORIX</text>
+</svg>
